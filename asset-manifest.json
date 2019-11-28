@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cfb06a7.chunk.css",
+    "main.js": "/static/js/main.aecde724.chunk.js",
+    "main.js.map": "/static/js/main.aecde724.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.5b9c14b7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.5b9c14b7.js.map",
+    "static/js/2.d5b62f65.chunk.js": "/static/js/2.d5b62f65.chunk.js",
+    "static/js/2.d5b62f65.chunk.js.map": "/static/js/2.d5b62f65.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5af7e5cad4fea15a787f42e8db6c76f7.js": "/precache-manifest.5af7e5cad4fea15a787f42e8db6c76f7.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6cfb06a7.chunk.css.map": "/static/css/main.6cfb06a7.chunk.css.map",
+    "static/media/darthvader.jpg": "/static/media/darthvader.4152ca00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b9c14b7.js",
+    "static/js/2.d5b62f65.chunk.js",
+    "static/css/main.6cfb06a7.chunk.css",
+    "static/js/main.aecde724.chunk.js"
+  ]
+}
