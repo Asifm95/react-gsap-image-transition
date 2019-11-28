@@ -1,5 +1,5 @@
 import React, { useRef, useEffect } from 'react';
-import vader from './darthvader.jpg';
+import vader from './darthvader.webp';
 import gsap from 'gsap';
 import './App.scss';
 
