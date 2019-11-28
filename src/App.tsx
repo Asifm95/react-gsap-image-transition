@@ -48,10 +48,12 @@ const App: React.FC = () => {
   });
   return (
     <section className="main" ref={container}>
-      <div className="title-container" ref={titleContainer}>
-        <p className="title" ref={title}>
-          WELCOME TO THE DARK SIDE
-        </p>
+      <div className="title-container">
+        <div className="title-layer" ref={titleContainer}>
+          <p className="title" ref={title}>
+            WELCOME TO THE DARK SIDE
+          </p>
+        </div>
       </div>
       <div className="container">
         <div>
