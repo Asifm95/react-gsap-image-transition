@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cfb06a7.chunk.css",
-    "main.js": "/static/js/main.aecde724.chunk.js",
-    "main.js.map": "/static/js/main.aecde724.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5b9c14b7.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5b9c14b7.js.map",
-    "static/js/2.d5b62f65.chunk.js": "/static/js/2.d5b62f65.chunk.js",
-    "static/js/2.d5b62f65.chunk.js.map": "/static/js/2.d5b62f65.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.5af7e5cad4fea15a787f42e8db6c76f7.js": "/precache-manifest.5af7e5cad4fea15a787f42e8db6c76f7.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.6cfb06a7.chunk.css.map": "/static/css/main.6cfb06a7.chunk.css.map",
-    "static/media/darthvader.jpg": "/static/media/darthvader.4152ca00.jpg"
+    "main.css": "//github.com/Asifm95/react-gsap-image-transition/static/css/main.6cfb06a7.chunk.css",
+    "main.js": "//github.com/Asifm95/react-gsap-image-transition/static/js/main.5e89b5e7.chunk.js",
+    "main.js.map": "//github.com/Asifm95/react-gsap-image-transition/static/js/main.5e89b5e7.chunk.js.map",
+    "runtime-main.js": "//github.com/Asifm95/react-gsap-image-transition/static/js/runtime-main.f468bbae.js",
+    "runtime-main.js.map": "//github.com/Asifm95/react-gsap-image-transition/static/js/runtime-main.f468bbae.js.map",
+    "static/js/2.d5b62f65.chunk.js": "//github.com/Asifm95/react-gsap-image-transition/static/js/2.d5b62f65.chunk.js",
+    "static/js/2.d5b62f65.chunk.js.map": "//github.com/Asifm95/react-gsap-image-transition/static/js/2.d5b62f65.chunk.js.map",
+    "index.html": "//github.com/Asifm95/react-gsap-image-transition/index.html",
+    "precache-manifest.920a7f7267bfded1873bcf9845180f36.js": "//github.com/Asifm95/react-gsap-image-transition/precache-manifest.920a7f7267bfded1873bcf9845180f36.js",
+    "service-worker.js": "//github.com/Asifm95/react-gsap-image-transition/service-worker.js",
+    "static/css/main.6cfb06a7.chunk.css.map": "//github.com/Asifm95/react-gsap-image-transition/static/css/main.6cfb06a7.chunk.css.map",
+    "static/media/darthvader.jpg": "//github.com/Asifm95/react-gsap-image-transition/static/media/darthvader.4152ca00.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b9c14b7.js",
+    "static/js/runtime-main.f468bbae.js",
     "static/js/2.d5b62f65.chunk.js",
     "static/css/main.6cfb06a7.chunk.css",
-    "static/js/main.aecde724.chunk.js"
+    "static/js/main.5e89b5e7.chunk.js"
   ]
 }
