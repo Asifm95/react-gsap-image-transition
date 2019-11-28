@@ -1,26 +1,22 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { useRef, useEffect } from 'react';
+import vader from './darthvader.jpg';
+import gsap from 'gsap';
+import './App.scss';
 
 const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <section className="main">
+      <p>WELCOME TO THE DARK SIDE</p>
+      <div className="container" ref={container}>
+        <div>
+          <div className="img-container">
+            <img ref={image} src={vader} alt="vader in the house" />
+            <div className="img-overlay" ref={imgReveal}></div>
+          </div>
+        </div>
+      </div>
+    </section>
   );
-}
+};
 
 export default App;
