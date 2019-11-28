@@ -2,7 +2,7 @@
   "name": "react-gsap-image-reveal",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://https://github.com/Asifm95/react-gsap-image-transition",
+  "homepage": "https://https://github.com/Asifm95/react-gsap-image-transition/",
   "dependencies": {
     "@types/gsap": "^1.20.2",
     "@types/jest": "24.0.23",
